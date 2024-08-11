@@ -148,7 +148,7 @@ const NavBar = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/denniskigen/react-weather"
+              href="https://github.com/notprateeek"
               className="block rounded-md px-3 py-2 text-base font-medium text-indigo-700 hover:bg-indigo-400 hover:text-white dark:text-white dark:hover:bg-gray-600"
             >
               GitHub
